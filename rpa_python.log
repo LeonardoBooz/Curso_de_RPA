@@ -1,0 +1,307 @@
+
+START - automation started - Thu Dec 21 2023 13:36:23 GMT-0300 (Hora oficial do Brasil)
+
+LIVE MODE - type done to quit
+ [RPA][STARTED]
+[RPA][0] - listening for inputs
+[RPA][1] - https://web.whatsapp.com/
+[RPA][1] - listening for inputs
+[RPA][2] - present_result = present('l7jjieqr cfzgl7ar ei5e7seu h0viaqh7 tpmajp1w c0uhu3dl riy2oczp dsh4tgtl sy6s5v3r gz7w46tb lyutrhe2 qfejxiq4 fewfhwl7 ovhn1urg ap18qm3b ikwl5qvt j90th5db aumms1qt').toString()
+[RPA][2] - listening for inputs
+[RPA][3] - dump present_result to rpa_python.txt
+[RPA][3] - listening for inputs
+[RPA][4] - present_result = present('l7jjieqr cfzgl7ar ei5e7seu h0viaqh7 tpmajp1w c0uhu3dl riy2oczp dsh4tgtl sy6s5v3r gz7w46tb lyutrhe2 qfejxiq4 fewfhwl7 ovhn1urg ap18qm3b ikwl5qvt j90th5db aumms1qt').toString()
+[RPA][4] - listening for inputs
+[RPA][5] - dump present_result to rpa_python.txt
+[RPA][5] - listening for inputs
+[RPA][6] - exist_result = exist('l7jjieqr cfzgl7ar ei5e7seu h0viaqh7 tpmajp1w c0uhu3dl riy2oczp dsh4tgtl sy6s5v3r gz7w46tb lyutrhe2 qfejxiq4 fewfhwl7 ovhn1urg ap18qm3b ikwl5qvt j90th5db aumms1qt').toString()
+[RPA][6] - listening for inputs
+[RPA][7] - dump exist_result to rpa_python.txt
+[RPA][7] - listening for inputs
+[RPA][8] - dclick l7jjieqr cfzgl7ar ei5e7seu h0viaqh7 tpmajp1w c0uhu3dl riy2oczp dsh4tgtl sy6s5v3r gz7w46tb lyutrhe2 qfejxiq4 fewfhwl7 ovhn1urg ap18qm3b ikwl5qvt j90th5db aumms1qt
+[RPA][8] - listening for inputs
+[RPA][9] - present_result = present('l7jjieqr cfzgl7ar ei5e7seu h0viaqh7 tpmajp1w c0uhu3dl riy2oczp dsh4tgtl sy6s5v3r gz7w46tb lyutrhe2 qfejxiq4 fewfhwl7 ovhn1urg ap18qm3b ikwl5qvt j90th5db aumms1qt').toString()
+[RPA][9] - listening for inputs
+[RPA][10] - dump present_result to rpa_python.txt
+[RPA][10] - listening for inputs
+[RPA][11] - present_result = present('l7jjieqr cfzgl7ar ei5e7seu h0viaqh7 tpmajp1w c0uhu3dl riy2oczp dsh4tgtl sy6s5v3r gz7w46tb lyutrhe2 qfejxiq4 fewfhwl7 ovhn1urg ap18qm3b ikwl5qvt j90th5db aumms1qt').toString()
+[RPA][11] - listening for inputs
+[RPA][12] - dump present_result to rpa_python.txt
+[RPA][12] - listening for inputs
+[RPA][13] - present_result = present('l7jjieqr cfzgl7ar ei5e7seu h0viaqh7 tpmajp1w c0uhu3dl riy2oczp dsh4tgtl sy6s5v3r gz7w46tb lyutrhe2 qfejxiq4 fewfhwl7 ovhn1urg ap18qm3b ikwl5qvt j90th5db aumms1qt').toString()
+[RPA][13] - listening for inputs
+[RPA][14] - dump present_result to rpa_python.txt
+[RPA][14] - listening for inputs
+[RPA][15] - present_result = present('l7jjieqr cfzgl7ar ei5e7seu h0viaqh7 tpmajp1w c0uhu3dl riy2oczp dsh4tgtl sy6s5v3r gz7w46tb lyutrhe2 qfejxiq4 fewfhwl7 ovhn1urg ap18qm3b ikwl5qvt j90th5db aumms1qt').toString()
+[RPA][15] - listening for inputs
+[RPA][16] - dump present_result to rpa_python.txt
+[RPA][16] - listening for inputs
+[RPA][17] - present_result = present('l7jjieqr cfzgl7ar ei5e7seu h0viaqh7 tpmajp1w c0uhu3dl riy2oczp dsh4tgtl sy6s5v3r gz7w46tb lyutrhe2 qfejxiq4 fewfhwl7 ovhn1urg ap18qm3b ikwl5qvt j90th5db aumms1qt').toString()
+[RPA][17] - listening for inputs
+[RPA][18] - dump present_result to rpa_python.txt
+[RPA][18] - listening for inputs
+[RPA][19] - present_result = present('l7jjieqr cfzgl7ar ei5e7seu h0viaqh7 tpmajp1w c0uhu3dl riy2oczp dsh4tgtl sy6s5v3r gz7w46tb lyutrhe2 qfejxiq4 fewfhwl7 ovhn1urg ap18qm3b ikwl5qvt j90th5db aumms1qt').toString()
+[RPA][19] - listening for inputs
+[RPA][20] - dump present_result to rpa_python.txt
+[RPA][20] - listening for inputs
+[RPA][21] - present_result = present('l7jjieqr cfzgl7ar ei5e7seu h0viaqh7 tpmajp1w c0uhu3dl riy2oczp dsh4tgtl sy6s5v3r gz7w46tb lyutrhe2 qfejxiq4 fewfhwl7 ovhn1urg ap18qm3b ikwl5qvt j90th5db aumms1qt').toString()
+[RPA][21] - listening for inputs
+[RPA][22] - dump present_result to rpa_python.txt
+[RPA][22] - listening for inputs
+[RPA][23] - present_result = present('l7jjieqr cfzgl7ar ei5e7seu h0viaqh7 tpmajp1w c0uhu3dl riy2oczp dsh4tgtl sy6s5v3r gz7w46tb lyutrhe2 qfejxiq4 fewfhwl7 ovhn1urg ap18qm3b ikwl5qvt j90th5db aumms1qt').toString()
+[RPA][23] - listening for inputs
+[RPA][24] - dump present_result to rpa_python.txt
+[RPA][24] - listening for inputs
+[RPA][25] - present_result = present('l7jjieqr cfzgl7ar ei5e7seu h0viaqh7 tpmajp1w c0uhu3dl riy2oczp dsh4tgtl sy6s5v3r gz7w46tb lyutrhe2 qfejxiq4 fewfhwl7 ovhn1urg ap18qm3b ikwl5qvt j90th5db aumms1qt').toString()
+[RPA][25] - listening for inputs
+[RPA][26] - dump present_result to rpa_python.txt
+[RPA][26] - listening for inputs
+[RPA][27] - present_result = present('l7jjieqr cfzgl7ar ei5e7seu h0viaqh7 tpmajp1w c0uhu3dl riy2oczp dsh4tgtl sy6s5v3r gz7w46tb lyutrhe2 qfejxiq4 fewfhwl7 ovhn1urg ap18qm3b ikwl5qvt j90th5db aumms1qt').toString()
+[RPA][27] - listening for inputs
+[RPA][28] - dump present_result to rpa_python.txt
+[RPA][28] - listening for inputs
+[RPA][29] - present_result = present('l7jjieqr cfzgl7ar ei5e7seu h0viaqh7 tpmajp1w c0uhu3dl riy2oczp dsh4tgtl sy6s5v3r gz7w46tb lyutrhe2 qfejxiq4 fewfhwl7 ovhn1urg ap18qm3b ikwl5qvt j90th5db aumms1qt').toString()
+[RPA][29] - listening for inputs
+[RPA][30] - dump present_result to rpa_python.txt
+[RPA][30] - listening for inputs
+[RPA][31] - present_result = present('l7jjieqr cfzgl7ar ei5e7seu h0viaqh7 tpmajp1w c0uhu3dl riy2oczp dsh4tgtl sy6s5v3r gz7w46tb lyutrhe2 qfejxiq4 fewfhwl7 ovhn1urg ap18qm3b ikwl5qvt j90th5db aumms1qt').toString()
+[RPA][31] - listening for inputs
+[RPA][32] - dump present_result to rpa_python.txt
+[RPA][32] - listening for inputs
+[RPA][33] - present_result = present('l7jjieqr cfzgl7ar ei5e7seu h0viaqh7 tpmajp1w c0uhu3dl riy2oczp dsh4tgtl sy6s5v3r gz7w46tb lyutrhe2 qfejxiq4 fewfhwl7 ovhn1urg ap18qm3b ikwl5qvt j90th5db aumms1qt').toString()
+[RPA][33] - listening for inputs
+[RPA][34] - dump present_result to rpa_python.txt
+[RPA][34] - listening for inputs
+[RPA][35] - present_result = present('l7jjieqr cfzgl7ar ei5e7seu h0viaqh7 tpmajp1w c0uhu3dl riy2oczp dsh4tgtl sy6s5v3r gz7w46tb lyutrhe2 qfejxiq4 fewfhwl7 ovhn1urg ap18qm3b ikwl5qvt j90th5db aumms1qt').toString()
+[RPA][35] - listening for inputs
+[RPA][36] - dump present_result to rpa_python.txt
+[RPA][36] - listening for inputs
+[RPA][37] - present_result = present('l7jjieqr cfzgl7ar ei5e7seu h0viaqh7 tpmajp1w c0uhu3dl riy2oczp dsh4tgtl sy6s5v3r gz7w46tb lyutrhe2 qfejxiq4 fewfhwl7 ovhn1urg ap18qm3b ikwl5qvt j90th5db aumms1qt').toString()
+[RPA][37] - listening for inputs
+[RPA][38] - dump present_result to rpa_python.txt
+[RPA][38] - listening for inputs
+[RPA][39] - present_result = present('l7jjieqr cfzgl7ar ei5e7seu h0viaqh7 tpmajp1w c0uhu3dl riy2oczp dsh4tgtl sy6s5v3r gz7w46tb lyutrhe2 qfejxiq4 fewfhwl7 ovhn1urg ap18qm3b ikwl5qvt j90th5db aumms1qt').toString()
+[RPA][39] - listening for inputs
+[RPA][40] - dump present_result to rpa_python.txt
+[RPA][40] - listening for inputs
+[RPA][41] - present_result = present('l7jjieqr cfzgl7ar ei5e7seu h0viaqh7 tpmajp1w c0uhu3dl riy2oczp dsh4tgtl sy6s5v3r gz7w46tb lyutrhe2 qfejxiq4 fewfhwl7 ovhn1urg ap18qm3b ikwl5qvt j90th5db aumms1qt').toString()
+[RPA][41] - listening for inputs
+[RPA][42] - dump present_result to rpa_python.txt
+[RPA][42] - listening for inputs
+[RPA][43] - present_result = present('l7jjieqr cfzgl7ar ei5e7seu h0viaqh7 tpmajp1w c0uhu3dl riy2oczp dsh4tgtl sy6s5v3r gz7w46tb lyutrhe2 qfejxiq4 fewfhwl7 ovhn1urg ap18qm3b ikwl5qvt j90th5db aumms1qt').toString()
+[RPA][43] - listening for inputs
+[RPA][44] - dump present_result to rpa_python.txt
+[RPA][44] - listening for inputs
+[RPA][45] - present_result = present('l7jjieqr cfzgl7ar ei5e7seu h0viaqh7 tpmajp1w c0uhu3dl riy2oczp dsh4tgtl sy6s5v3r gz7w46tb lyutrhe2 qfejxiq4 fewfhwl7 ovhn1urg ap18qm3b ikwl5qvt j90th5db aumms1qt').toString()
+[RPA][45] - listening for inputs
+[RPA][46] - dump present_result to rpa_python.txt
+[RPA][46] - listening for inputs
+[RPA][47] - present_result = present('l7jjieqr cfzgl7ar ei5e7seu h0viaqh7 tpmajp1w c0uhu3dl riy2oczp dsh4tgtl sy6s5v3r gz7w46tb lyutrhe2 qfejxiq4 fewfhwl7 ovhn1urg ap18qm3b ikwl5qvt j90th5db aumms1qt').toString()
+[RPA][47] - listening for inputs
+[RPA][48] - dump present_result to rpa_python.txt
+[RPA][48] - listening for inputs
+[RPA][49] - present_result = present('l7jjieqr cfzgl7ar ei5e7seu h0viaqh7 tpmajp1w c0uhu3dl riy2oczp dsh4tgtl sy6s5v3r gz7w46tb lyutrhe2 qfejxiq4 fewfhwl7 ovhn1urg ap18qm3b ikwl5qvt j90th5db aumms1qt').toString()
+[RPA][49] - listening for inputs
+[RPA][50] - dump present_result to rpa_python.txt
+[RPA][50] - listening for inputs
+[RPA][51] - present_result = present('l7jjieqr cfzgl7ar ei5e7seu h0viaqh7 tpmajp1w c0uhu3dl riy2oczp dsh4tgtl sy6s5v3r gz7w46tb lyutrhe2 qfejxiq4 fewfhwl7 ovhn1urg ap18qm3b ikwl5qvt j90th5db aumms1qt').toString()
+[RPA][51] - listening for inputs
+[RPA][52] - dump present_result to rpa_python.txt
+[RPA][52] - listening for inputs
+[RPA][53] - present_result = present('l7jjieqr cfzgl7ar ei5e7seu h0viaqh7 tpmajp1w c0uhu3dl riy2oczp dsh4tgtl sy6s5v3r gz7w46tb lyutrhe2 qfejxiq4 fewfhwl7 ovhn1urg ap18qm3b ikwl5qvt j90th5db aumms1qt').toString()
+[RPA][53] - listening for inputs
+[RPA][54] - dump present_result to rpa_python.txt
+[RPA][54] - listening for inputs
+[RPA][55] - present_result = present('l7jjieqr cfzgl7ar ei5e7seu h0viaqh7 tpmajp1w c0uhu3dl riy2oczp dsh4tgtl sy6s5v3r gz7w46tb lyutrhe2 qfejxiq4 fewfhwl7 ovhn1urg ap18qm3b ikwl5qvt j90th5db aumms1qt').toString()
+[RPA][55] - listening for inputs
+[RPA][56] - dump present_result to rpa_python.txt
+[RPA][56] - listening for inputs
+[RPA][57] - present_result = present('l7jjieqr cfzgl7ar ei5e7seu h0viaqh7 tpmajp1w c0uhu3dl riy2oczp dsh4tgtl sy6s5v3r gz7w46tb lyutrhe2 qfejxiq4 fewfhwl7 ovhn1urg ap18qm3b ikwl5qvt j90th5db aumms1qt').toString()
+[RPA][57] - listening for inputs
+[RPA][58] - dump present_result to rpa_python.txt
+[RPA][58] - listening for inputs
+[RPA][59] - present_result = present('l7jjieqr cfzgl7ar ei5e7seu h0viaqh7 tpmajp1w c0uhu3dl riy2oczp dsh4tgtl sy6s5v3r gz7w46tb lyutrhe2 qfejxiq4 fewfhwl7 ovhn1urg ap18qm3b ikwl5qvt j90th5db aumms1qt').toString()
+[RPA][59] - listening for inputs
+[RPA][60] - dump present_result to rpa_python.txt
+[RPA][60] - listening for inputs
+[RPA][61] - present_result = present('l7jjieqr cfzgl7ar ei5e7seu h0viaqh7 tpmajp1w c0uhu3dl riy2oczp dsh4tgtl sy6s5v3r gz7w46tb lyutrhe2 qfejxiq4 fewfhwl7 ovhn1urg ap18qm3b ikwl5qvt j90th5db aumms1qt').toString()
+[RPA][61] - listening for inputs
+[RPA][62] - dump present_result to rpa_python.txt
+[RPA][62] - listening for inputs
+[RPA][63] - present_result = present('l7jjieqr cfzgl7ar ei5e7seu h0viaqh7 tpmajp1w c0uhu3dl riy2oczp dsh4tgtl sy6s5v3r gz7w46tb lyutrhe2 qfejxiq4 fewfhwl7 ovhn1urg ap18qm3b ikwl5qvt j90th5db aumms1qt').toString()
+[RPA][63] - listening for inputs
+[RPA][64] - dump present_result to rpa_python.txt
+[RPA][64] - listening for inputs
+[RPA][65] - present_result = present('l7jjieqr cfzgl7ar ei5e7seu h0viaqh7 tpmajp1w c0uhu3dl riy2oczp dsh4tgtl sy6s5v3r gz7w46tb lyutrhe2 qfejxiq4 fewfhwl7 ovhn1urg ap18qm3b ikwl5qvt j90th5db aumms1qt').toString()
+[RPA][65] - listening for inputs
+[RPA][66] - dump present_result to rpa_python.txt
+[RPA][66] - listening for inputs
+[RPA][67] - present_result = present('l7jjieqr cfzgl7ar ei5e7seu h0viaqh7 tpmajp1w c0uhu3dl riy2oczp dsh4tgtl sy6s5v3r gz7w46tb lyutrhe2 qfejxiq4 fewfhwl7 ovhn1urg ap18qm3b ikwl5qvt j90th5db aumms1qt').toString()
+[RPA][67] - listening for inputs
+[RPA][68] - dump present_result to rpa_python.txt
+[RPA][68] - listening for inputs
+[RPA][69] - present_result = present('l7jjieqr cfzgl7ar ei5e7seu h0viaqh7 tpmajp1w c0uhu3dl riy2oczp dsh4tgtl sy6s5v3r gz7w46tb lyutrhe2 qfejxiq4 fewfhwl7 ovhn1urg ap18qm3b ikwl5qvt j90th5db aumms1qt').toString()
+[RPA][69] - listening for inputs
+[RPA][70] - dump present_result to rpa_python.txt
+[RPA][70] - listening for inputs
+[RPA][71] - present_result = present('l7jjieqr cfzgl7ar ei5e7seu h0viaqh7 tpmajp1w c0uhu3dl riy2oczp dsh4tgtl sy6s5v3r gz7w46tb lyutrhe2 qfejxiq4 fewfhwl7 ovhn1urg ap18qm3b ikwl5qvt j90th5db aumms1qt').toString()
+[RPA][71] - listening for inputs
+[RPA][72] - dump present_result to rpa_python.txt
+[RPA][72] - listening for inputs
+[RPA][73] - present_result = present('l7jjieqr cfzgl7ar ei5e7seu h0viaqh7 tpmajp1w c0uhu3dl riy2oczp dsh4tgtl sy6s5v3r gz7w46tb lyutrhe2 qfejxiq4 fewfhwl7 ovhn1urg ap18qm3b ikwl5qvt j90th5db aumms1qt').toString()
+[RPA][73] - listening for inputs
+[RPA][74] - dump present_result to rpa_python.txt
+[RPA][74] - listening for inputs
+[RPA][75] - present_result = present('l7jjieqr cfzgl7ar ei5e7seu h0viaqh7 tpmajp1w c0uhu3dl riy2oczp dsh4tgtl sy6s5v3r gz7w46tb lyutrhe2 qfejxiq4 fewfhwl7 ovhn1urg ap18qm3b ikwl5qvt j90th5db aumms1qt').toString()
+[RPA][75] - listening for inputs
+[RPA][76] - dump present_result to rpa_python.txt
+[RPA][76] - listening for inputs
+[RPA][77] - present_result = present('l7jjieqr cfzgl7ar ei5e7seu h0viaqh7 tpmajp1w c0uhu3dl riy2oczp dsh4tgtl sy6s5v3r gz7w46tb lyutrhe2 qfejxiq4 fewfhwl7 ovhn1urg ap18qm3b ikwl5qvt j90th5db aumms1qt').toString()
+[RPA][77] - listening for inputs
+[RPA][78] - dump present_result to rpa_python.txt
+[RPA][78] - listening for inputs
+[RPA][79] - present_result = present('l7jjieqr cfzgl7ar ei5e7seu h0viaqh7 tpmajp1w c0uhu3dl riy2oczp dsh4tgtl sy6s5v3r gz7w46tb lyutrhe2 qfejxiq4 fewfhwl7 ovhn1urg ap18qm3b ikwl5qvt j90th5db aumms1qt').toString()
+[RPA][79] - listening for inputs
+[RPA][80] - dump present_result to rpa_python.txt
+[RPA][80] - listening for inputs
+[RPA][81] - present_result = present('l7jjieqr cfzgl7ar ei5e7seu h0viaqh7 tpmajp1w c0uhu3dl riy2oczp dsh4tgtl sy6s5v3r gz7w46tb lyutrhe2 qfejxiq4 fewfhwl7 ovhn1urg ap18qm3b ikwl5qvt j90th5db aumms1qt').toString()
+[RPA][81] - listening for inputs
+[RPA][82] - dump present_result to rpa_python.txt
+[RPA][82] - listening for inputs
+[RPA][83] - present_result = present('l7jjieqr cfzgl7ar ei5e7seu h0viaqh7 tpmajp1w c0uhu3dl riy2oczp dsh4tgtl sy6s5v3r gz7w46tb lyutrhe2 qfejxiq4 fewfhwl7 ovhn1urg ap18qm3b ikwl5qvt j90th5db aumms1qt').toString()
+[RPA][83] - listening for inputs
+[RPA][84] - dump present_result to rpa_python.txt
+[RPA][84] - listening for inputs
+[RPA][85] - present_result = present('l7jjieqr cfzgl7ar ei5e7seu h0viaqh7 tpmajp1w c0uhu3dl riy2oczp dsh4tgtl sy6s5v3r gz7w46tb lyutrhe2 qfejxiq4 fewfhwl7 ovhn1urg ap18qm3b ikwl5qvt j90th5db aumms1qt').toString()
+[RPA][85] - listening for inputs
+[RPA][86] - dump present_result to rpa_python.txt
+[RPA][86] - listening for inputs
+[RPA][87] - present_result = present('l7jjieqr cfzgl7ar ei5e7seu h0viaqh7 tpmajp1w c0uhu3dl riy2oczp dsh4tgtl sy6s5v3r gz7w46tb lyutrhe2 qfejxiq4 fewfhwl7 ovhn1urg ap18qm3b ikwl5qvt j90th5db aumms1qt').toString()
+[RPA][87] - listening for inputs
+[RPA][88] - dump present_result to rpa_python.txt
+[RPA][88] - listening for inputs
+[RPA][89] - present_result = present('l7jjieqr cfzgl7ar ei5e7seu h0viaqh7 tpmajp1w c0uhu3dl riy2oczp dsh4tgtl sy6s5v3r gz7w46tb lyutrhe2 qfejxiq4 fewfhwl7 ovhn1urg ap18qm3b ikwl5qvt j90th5db aumms1qt').toString()
+[RPA][89] - listening for inputs
+[RPA][90] - dump present_result to rpa_python.txt
+[RPA][90] - listening for inputs
+[RPA][91] - present_result = present('l7jjieqr cfzgl7ar ei5e7seu h0viaqh7 tpmajp1w c0uhu3dl riy2oczp dsh4tgtl sy6s5v3r gz7w46tb lyutrhe2 qfejxiq4 fewfhwl7 ovhn1urg ap18qm3b ikwl5qvt j90th5db aumms1qt').toString()
+[RPA][91] - listening for inputs
+[RPA][92] - dump present_result to rpa_python.txt
+[RPA][92] - listening for inputs
+[RPA][93] - present_result = present('l7jjieqr cfzgl7ar ei5e7seu h0viaqh7 tpmajp1w c0uhu3dl riy2oczp dsh4tgtl sy6s5v3r gz7w46tb lyutrhe2 qfejxiq4 fewfhwl7 ovhn1urg ap18qm3b ikwl5qvt j90th5db aumms1qt').toString()
+[RPA][93] - listening for inputs
+[RPA][94] - dump present_result to rpa_python.txt
+[RPA][94] - listening for inputs
+[RPA][95] - present_result = present('l7jjieqr cfzgl7ar ei5e7seu h0viaqh7 tpmajp1w c0uhu3dl riy2oczp dsh4tgtl sy6s5v3r gz7w46tb lyutrhe2 qfejxiq4 fewfhwl7 ovhn1urg ap18qm3b ikwl5qvt j90th5db aumms1qt').toString()
+[RPA][95] - listening for inputs
+[RPA][96] - dump present_result to rpa_python.txt
+[RPA][96] - listening for inputs
+[RPA][97] - present_result = present('l7jjieqr cfzgl7ar ei5e7seu h0viaqh7 tpmajp1w c0uhu3dl riy2oczp dsh4tgtl sy6s5v3r gz7w46tb lyutrhe2 qfejxiq4 fewfhwl7 ovhn1urg ap18qm3b ikwl5qvt j90th5db aumms1qt').toString()
+[RPA][97] - listening for inputs
+[RPA][98] - dump present_result to rpa_python.txt
+[RPA][98] - listening for inputs
+[RPA][99] - present_result = present('l7jjieqr cfzgl7ar ei5e7seu h0viaqh7 tpmajp1w c0uhu3dl riy2oczp dsh4tgtl sy6s5v3r gz7w46tb lyutrhe2 qfejxiq4 fewfhwl7 ovhn1urg ap18qm3b ikwl5qvt j90th5db aumms1qt').toString()
+[RPA][99] - listening for inputs
+[RPA][100] - dump present_result to rpa_python.txt
+[RPA][100] - listening for inputs
+[RPA][101] - present_result = present('l7jjieqr cfzgl7ar ei5e7seu h0viaqh7 tpmajp1w c0uhu3dl riy2oczp dsh4tgtl sy6s5v3r gz7w46tb lyutrhe2 qfejxiq4 fewfhwl7 ovhn1urg ap18qm3b ikwl5qvt j90th5db aumms1qt').toString()
+[RPA][101] - listening for inputs
+[RPA][102] - dump present_result to rpa_python.txt
+[RPA][102] - listening for inputs
+[RPA][103] - present_result = present('l7jjieqr cfzgl7ar ei5e7seu h0viaqh7 tpmajp1w c0uhu3dl riy2oczp dsh4tgtl sy6s5v3r gz7w46tb lyutrhe2 qfejxiq4 fewfhwl7 ovhn1urg ap18qm3b ikwl5qvt j90th5db aumms1qt').toString()
+[RPA][103] - listening for inputs
+[RPA][104] - dump present_result to rpa_python.txt
+[RPA][104] - listening for inputs
+[RPA][105] - present_result = present('l7jjieqr cfzgl7ar ei5e7seu h0viaqh7 tpmajp1w c0uhu3dl riy2oczp dsh4tgtl sy6s5v3r gz7w46tb lyutrhe2 qfejxiq4 fewfhwl7 ovhn1urg ap18qm3b ikwl5qvt j90th5db aumms1qt').toString()
+[RPA][105] - listening for inputs
+[RPA][106] - dump present_result to rpa_python.txt
+[RPA][106] - listening for inputs
+[RPA][107] - present_result = present('l7jjieqr cfzgl7ar ei5e7seu h0viaqh7 tpmajp1w c0uhu3dl riy2oczp dsh4tgtl sy6s5v3r gz7w46tb lyutrhe2 qfejxiq4 fewfhwl7 ovhn1urg ap18qm3b ikwl5qvt j90th5db aumms1qt').toString()
+[RPA][107] - listening for inputs
+[RPA][108] - dump present_result to rpa_python.txt
+[RPA][108] - listening for inputs
+[RPA][109] - present_result = present('l7jjieqr cfzgl7ar ei5e7seu h0viaqh7 tpmajp1w c0uhu3dl riy2oczp dsh4tgtl sy6s5v3r gz7w46tb lyutrhe2 qfejxiq4 fewfhwl7 ovhn1urg ap18qm3b ikwl5qvt j90th5db aumms1qt').toString()
+[RPA][109] - listening for inputs
+[RPA][110] - dump present_result to rpa_python.txt
+[RPA][110] - listening for inputs
+[RPA][111] - present_result = present('l7jjieqr cfzgl7ar ei5e7seu h0viaqh7 tpmajp1w c0uhu3dl riy2oczp dsh4tgtl sy6s5v3r gz7w46tb lyutrhe2 qfejxiq4 fewfhwl7 ovhn1urg ap18qm3b ikwl5qvt j90th5db aumms1qt').toString()
+[RPA][111] - listening for inputs
+[RPA][112] - dump present_result to rpa_python.txt
+[RPA][112] - listening for inputs
+[RPA][113] - present_result = present('l7jjieqr cfzgl7ar ei5e7seu h0viaqh7 tpmajp1w c0uhu3dl riy2oczp dsh4tgtl sy6s5v3r gz7w46tb lyutrhe2 qfejxiq4 fewfhwl7 ovhn1urg ap18qm3b ikwl5qvt j90th5db aumms1qt').toString()
+[RPA][113] - listening for inputs
+[RPA][114] - dump present_result to rpa_python.txt
+[RPA][114] - listening for inputs
+[RPA][115] - present_result = present('l7jjieqr cfzgl7ar ei5e7seu h0viaqh7 tpmajp1w c0uhu3dl riy2oczp dsh4tgtl sy6s5v3r gz7w46tb lyutrhe2 qfejxiq4 fewfhwl7 ovhn1urg ap18qm3b ikwl5qvt j90th5db aumms1qt').toString()
+[RPA][115] - listening for inputs
+[RPA][116] - dump present_result to rpa_python.txt
+[RPA][116] - listening for inputs
+[RPA][117] - present_result = present('l7jjieqr cfzgl7ar ei5e7seu h0viaqh7 tpmajp1w c0uhu3dl riy2oczp dsh4tgtl sy6s5v3r gz7w46tb lyutrhe2 qfejxiq4 fewfhwl7 ovhn1urg ap18qm3b ikwl5qvt j90th5db aumms1qt').toString()
+[RPA][117] - listening for inputs
+[RPA][118] - dump present_result to rpa_python.txt
+[RPA][118] - listening for inputs
+[RPA][119] - present_result = present('l7jjieqr cfzgl7ar ei5e7seu h0viaqh7 tpmajp1w c0uhu3dl riy2oczp dsh4tgtl sy6s5v3r gz7w46tb lyutrhe2 qfejxiq4 fewfhwl7 ovhn1urg ap18qm3b ikwl5qvt j90th5db aumms1qt').toString()
+[RPA][119] - listening for inputs
+[RPA][120] - dump present_result to rpa_python.txt
+[RPA][120] - listening for inputs
+[RPA][121] - present_result = present('l7jjieqr cfzgl7ar ei5e7seu h0viaqh7 tpmajp1w c0uhu3dl riy2oczp dsh4tgtl sy6s5v3r gz7w46tb lyutrhe2 qfejxiq4 fewfhwl7 ovhn1urg ap18qm3b ikwl5qvt j90th5db aumms1qt').toString()
+[RPA][121] - listening for inputs
+[RPA][122] - dump present_result to rpa_python.txt
+[RPA][122] - listening for inputs
+[RPA][123] - present_result = present('l7jjieqr cfzgl7ar ei5e7seu h0viaqh7 tpmajp1w c0uhu3dl riy2oczp dsh4tgtl sy6s5v3r gz7w46tb lyutrhe2 qfejxiq4 fewfhwl7 ovhn1urg ap18qm3b ikwl5qvt j90th5db aumms1qt').toString()
+[RPA][123] - listening for inputs
+[RPA][124] - dump present_result to rpa_python.txt
+[RPA][124] - listening for inputs
+[RPA][125] - present_result = present('l7jjieqr cfzgl7ar ei5e7seu h0viaqh7 tpmajp1w c0uhu3dl riy2oczp dsh4tgtl sy6s5v3r gz7w46tb lyutrhe2 qfejxiq4 fewfhwl7 ovhn1urg ap18qm3b ikwl5qvt j90th5db aumms1qt').toString()
+[RPA][125] - listening for inputs
+[RPA][126] - dump present_result to rpa_python.txt
+[RPA][126] - listening for inputs
+[RPA][127] - present_result = present('l7jjieqr cfzgl7ar ei5e7seu h0viaqh7 tpmajp1w c0uhu3dl riy2oczp dsh4tgtl sy6s5v3r gz7w46tb lyutrhe2 qfejxiq4 fewfhwl7 ovhn1urg ap18qm3b ikwl5qvt j90th5db aumms1qt').toString()
+[RPA][127] - listening for inputs
+[RPA][128] - dump present_result to rpa_python.txt
+[RPA][128] - listening for inputs
+[RPA][129] - present_result = present('l7jjieqr cfzgl7ar ei5e7seu h0viaqh7 tpmajp1w c0uhu3dl riy2oczp dsh4tgtl sy6s5v3r gz7w46tb lyutrhe2 qfejxiq4 fewfhwl7 ovhn1urg ap18qm3b ikwl5qvt j90th5db aumms1qt').toString()
+[RPA][129] - listening for inputs
+[RPA][130] - dump present_result to rpa_python.txt
+[RPA][130] - listening for inputs
+[RPA][131] - present_result = present('l7jjieqr cfzgl7ar ei5e7seu h0viaqh7 tpmajp1w c0uhu3dl riy2oczp dsh4tgtl sy6s5v3r gz7w46tb lyutrhe2 qfejxiq4 fewfhwl7 ovhn1urg ap18qm3b ikwl5qvt j90th5db aumms1qt').toString()
+[RPA][131] - listening for inputs
+[RPA][132] - dump present_result to rpa_python.txt
+[RPA][132] - listening for inputs
+[RPA][133] - present_result = present('l7jjieqr cfzgl7ar ei5e7seu h0viaqh7 tpmajp1w c0uhu3dl riy2oczp dsh4tgtl sy6s5v3r gz7w46tb lyutrhe2 qfejxiq4 fewfhwl7 ovhn1urg ap18qm3b ikwl5qvt j90th5db aumms1qt').toString()
+[RPA][133] - listening for inputs
+[RPA][134] - dump present_result to rpa_python.txt
+[RPA][134] - listening for inputs
+[RPA][135] - present_result = present('l7jjieqr cfzgl7ar ei5e7seu h0viaqh7 tpmajp1w c0uhu3dl riy2oczp dsh4tgtl sy6s5v3r gz7w46tb lyutrhe2 qfejxiq4 fewfhwl7 ovhn1urg ap18qm3b ikwl5qvt j90th5db aumms1qt').toString()
+[RPA][135] - listening for inputs
+[RPA][136] - dump present_result to rpa_python.txt
+[RPA][136] - listening for inputs
+[RPA][137] - present_result = present('l7jjieqr cfzgl7ar ei5e7seu h0viaqh7 tpmajp1w c0uhu3dl riy2oczp dsh4tgtl sy6s5v3r gz7w46tb lyutrhe2 qfejxiq4 fewfhwl7 ovhn1urg ap18qm3b ikwl5qvt j90th5db aumms1qt').toString()
+[RPA][137] - listening for inputs
+[RPA][138] - dump present_result to rpa_python.txt
+[RPA][138] - listening for inputs
+[RPA][139] - present_result = present('l7jjieqr cfzgl7ar ei5e7seu h0viaqh7 tpmajp1w c0uhu3dl riy2oczp dsh4tgtl sy6s5v3r gz7w46tb lyutrhe2 qfejxiq4 fewfhwl7 ovhn1urg ap18qm3b ikwl5qvt j90th5db aumms1qt').toString()
+[RPA][139] - listening for inputs
+[RPA][140] - dump present_result to rpa_python.txt
+[RPA][140] - listening for inputs
+[RPA][141] - present_result = present('l7jjieqr cfzgl7ar ei5e7seu h0viaqh7 tpmajp1w c0uhu3dl riy2oczp dsh4tgtl sy6s5v3r gz7w46tb lyutrhe2 qfejxiq4 fewfhwl7 ovhn1urg ap18qm3b ikwl5qvt j90th5db aumms1qt').toString()
+[RPA][141] - listening for inputs
+[RPA][142] - dump present_result to rpa_python.txt
+[RPA][142] - listening for inputs
+[RPA][143] - present_result = present('l7jjieqr cfzgl7ar ei5e7seu h0viaqh7 tpmajp1w c0uhu3dl riy2oczp dsh4tgtl sy6s5v3r gz7w46tb lyutrhe2 qfejxiq4 fewfhwl7 ovhn1urg ap18qm3b ikwl5qvt j90th5db aumms1qt').toString()
+[RPA][143] - listening for inputs
+[RPA][144] - dump present_result to rpa_python.txt
+[RPA][144] - listening for inputs
+[RPA][145] - present_result = present('l7jjieqr cfzgl7ar ei5e7seu h0viaqh7 tpmajp1w c0uhu3dl riy2oczp dsh4tgtl sy6s5v3r gz7w46tb lyutrhe2 qfejxiq4 fewfhwl7 ovhn1urg ap18qm3b ikwl5qvt j90th5db aumms1qt').toString()
+[RPA][145] - listening for inputs
+[RPA][146] - dump present_result to rpa_python.txt
+[RPA][146] - listening for inputs
+[RPA][147] - present_result = present('l7jjieqr cfzgl7ar ei5e7seu h0viaqh7 tpmajp1w c0uhu3dl riy2oczp dsh4tgtl sy6s5v3r gz7w46tb lyutrhe2 qfejxiq4 fewfhwl7 ovhn1urg ap18qm3b ikwl5qvt j90th5db aumms1qt').toString()
+[RPA][147] - listening for inputs
+[RPA][148] - dump present_result to rpa_python.txt
+[RPA][148] - listening for inputs
+[RPA][149] - present_result = present('l7jjieqr cfzgl7ar ei5e7seu h0viaqh7 tpmajp1w c0uhu3dl riy2oczp dsh4tgtl sy6s5v3r gz7w46tb lyutrhe2 qfejxiq4 fewfhwl7 ovhn1urg ap18qm3b ikwl5qvt j90th5db aumms1qt').toString()
+[RPA][149] - listening for inputs
+[RPA][150] - dump present_result to rpa_python.txt
+[RPA][150] - listening for inputs
+[RPA][151] - present_result = present('l7jjieqr cfzgl7ar ei5e7seu h0viaqh7 tpmajp1w c0uhu3dl riy2oczp dsh4tgtl sy6s5v3r gz7w46tb lyutrhe2 qfejxiq4 fewfhwl7 ovhn1urg ap18qm3b ikwl5qvt j90th5db aumms1qt').toString()
